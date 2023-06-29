@@ -1,6 +1,7 @@
 #  Murphy Çözümü - Ömer Arda Kaya - 29.06.2023
 #  Problem linki: https://github.com/squillero/computer-sciences/tree/master/Python/exams/_imported/murphy
 
+
 def main():
     try:
         murphyfile = open("Murphy_reads.txt", "r")
